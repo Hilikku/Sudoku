@@ -1,0 +1,6 @@
+FileOpenedAction 1443613991434 SudokuVerifier.java 198 1 1 0
+FileOpenedAction 1443614158156 GildedRose.java 3662 2 10 0
+FileOpenedAction 1443614888734 GildedRose.java 3662 2 10 0
+FileOpenedAction 1443614889405 Item.java 674 7 9 0
+RefactoringAction 1443615087840 SudokuVerifier.java ADD String solution FIELD
+EditAction 1443615102916 SudokuVerifier.java 227 1 1 0

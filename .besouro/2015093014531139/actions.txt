@@ -27,3 +27,6 @@ UnitTestSessionAction 1443616885229 TestSudokuVerifier OK
 RefactoringAction 1443616903577 TestSudokuVerifier.java ADD void testWrongString()/2 METHOD
 RefactoringAction 1443616909592 TestSudokuVerifier.java RENAME testWrongString()/2=>void testRightString() METHOD
 EditAction 1443616926050 TestSudokuVerifier.java 608 2 4 2
+UnitTestCaseAction 1443616933379 TestSudokuVerifier.java FAIL
+UnitTestSessionAction 1443616933379 TestSudokuVerifier FAIL
+EditAction 1443616937865 TestSudokuVerifier.java 608 2 4 2

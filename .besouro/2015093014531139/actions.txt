@@ -48,3 +48,8 @@ UnitTestCaseAction 1443619004643 TestSudokuVerifier.java FAIL
 UnitTestSessionAction 1443619004643 TestSudokuVerifier FAIL
 EditAction 1443619293586 TestSudokuVerifier.java 1073 4 8 4
 EditAction 1443619304738 TestSudokuVerifier.java 1073 4 8 4
+UnitTestCaseAction 1443619307885 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443619307885 TestSudokuVerifier OK
+RefactoringAction 1443619372141 SudokuVerifier.java ADD int row FIELD
+RefactoringAction 1443619377653 SudokuVerifier.java RENAME row=>static int row(String) METHOD
+EditAction 1443619485262 SudokuVerifier.java 741 3 5 0

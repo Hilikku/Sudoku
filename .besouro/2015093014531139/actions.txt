@@ -30,3 +30,10 @@ EditAction 1443616926050 TestSudokuVerifier.java 608 2 4 2
 UnitTestCaseAction 1443616933379 TestSudokuVerifier.java FAIL
 UnitTestSessionAction 1443616933379 TestSudokuVerifier FAIL
 EditAction 1443616937865 TestSudokuVerifier.java 608 2 4 2
+UnitTestCaseAction 1443616940677 TestSudokuVerifier.java OK
+UnitTestSessionAction 1443616940678 TestSudokuVerifier OK
+RefactoringAction 1443618341778 SudokuVerifier.java ADD int positi FIELD
+RefactoringAction 1443618343288 SudokuVerifier.java RENAME positi=>int positive FIELD
+RefactoringAction 1443618349798 SudokuVerifier.java RENAME positive=>static int positive() METHOD
+RefactoringAction 1443618376318 SudokuVerifier.java RENAME positive()=>static int positive(String) METHOD
+EditAction 1443618752441 SudokuVerifier.java 648 2 4 0

@@ -41,3 +41,6 @@ RefactoringAction 1443618869079 TestSudokuVerifier.java ADD void testWrongString
 RefactoringAction 1443618875093 TestSudokuVerifier.java RENAME testWrongString()/2=>void testPositive() METHOD
 RefactoringAction 1443618964122 TestSudokuVerifier.java RENAME testPositive()=>void testNotPositive() METHOD
 EditAction 1443618987844 TestSudokuVerifier.java 845 3 6 3
+RefactoringAction 1443618995170 TestSudokuVerifier.java ADD void testNotPositive()/2 METHOD
+RefactoringAction 1443618998685 TestSudokuVerifier.java RENAME testNotPositive()/2=>void testPositive() METHOD
+EditAction 1443619002399 TestSudokuVerifier.java 1072 4 8 4

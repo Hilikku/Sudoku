@@ -14,3 +14,4 @@ RefactoringAction 1443616566555 TestSudokuVerifier.java RENAME test()=>void test
 RefactoringAction 1443616568067 TestSudokuVerifier.java RENAME testWrong()=>void test() METHOD
 RefactoringAction 1443616577080 TestSudokuVerifier.java RENAME test()=>void testWrongString() METHOD
 EditAction 1443616629829 SudokuVerifier.java 399 1 2 0
+EditAction 1443616806850 SudokuVerifier.java 406 1 2 0

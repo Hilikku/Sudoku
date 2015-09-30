@@ -7,3 +7,10 @@ EditAction 1443615102916 SudokuVerifier.java 227 1 1 0
 EditAction 1443615236117 SudokuVerifier.java 326 1 2 0
 EditAction 1443616021308 SudokuVerifier.java 396 1 2 0
 EditAction 1443616026090 SudokuVerifier.java 395 1 2 0
+FileOpenedAction 1443616058646 GildedRoseTest.java 196 1 1 1
+RefactoringAction 1443616560032 TestSudokuVerifier.java RENAME test()=>void testRetu() METHOD
+RefactoringAction 1443616561544 TestSudokuVerifier.java RENAME testRetu()=>void test() METHOD
+RefactoringAction 1443616566555 TestSudokuVerifier.java RENAME test()=>void testWrong() METHOD
+RefactoringAction 1443616568067 TestSudokuVerifier.java RENAME testWrong()=>void test() METHOD
+RefactoringAction 1443616577080 TestSudokuVerifier.java RENAME test()=>void testWrongString() METHOD
+EditAction 1443616629829 SudokuVerifier.java 399 1 2 0
